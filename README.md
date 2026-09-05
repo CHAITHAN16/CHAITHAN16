@@ -1,5 +1,3 @@
 <div align="center">
-
-<img src="./banner.jpg" width="100%" alt="CHAITHAN16">
-
+  <img src="./cloude.jpg" width="100%" alt="CHAITHAN16">
 </div>
