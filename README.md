@@ -46,7 +46,7 @@
 
 I'm a <b>Computer Science & Engineering student</b> who enjoys turning ideas into working software.
 
-My main interests are <b>backend engineering, AI systems, IoT, intelligent automation and robotics.</b>
+My main interests are <b>backend engineering, AI systems, IoT, intelligent automation.</b>
 
 I care about building things that are practical, reliable and actually useful — not just projects that look good in a demo.
 
